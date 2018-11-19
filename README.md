@@ -1,3 +1,3 @@
 # ForReview
- hashtable from scratch in C++
- Table Classifer for financial documents in python
+Hashtable from scratch in C++ \n
+Table Classifer for financial documents in python
